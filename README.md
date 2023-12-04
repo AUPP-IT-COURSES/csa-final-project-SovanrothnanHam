@@ -3,8 +3,8 @@ The typing speed game aims to address the need for individuals to improve their 
 This game made in python with tkinter and pygame. 
 Users typing with a timer, users will see the user speed (speed average, below average or above average )in WPM at the end of game.
 ## No. of Pages: 
-*Home Page
-*Game Page
+* Home Page
+* Game Page
 ## Features:
 * Gives the user speed in WPM at the end of game.
 * Tells if speed average, below average or above average at the end of game based on WPM.
@@ -13,4 +13,3 @@ Users typing with a timer, users will see the user speed (speed average, below a
 ## How to play:
 * Run the home.py file after cloning this repository in your system.
 * Then follow instructions of game. 
-##Screenshots:
